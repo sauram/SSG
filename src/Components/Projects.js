@@ -210,7 +210,7 @@ class Projects extends Component {
             </CardMenu>
           </Card>
 
-          
+
         </div>
         );
       </div>
