@@ -1,1 +1,1 @@
-I tried to build a postfolio site using Reat.
+I tried to build a postfolio site using React.
